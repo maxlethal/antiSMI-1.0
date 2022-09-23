@@ -14,4 +14,4 @@ Telegram-based news aggregator
 * personal news digests 4 times a day
 
 ## Next generation
-* v [2.0](https://github.com/maxlethal/antiSMI-2.0)
+[v 2.0](https://github.com/maxlethal/antiSMI-2.0)
